@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-11T18:22:32 GST" name="Suite" finished-at="2022-11-11T18:22:41 GST" duration-ms="9276">
+  <suite started-at="2022-11-11T19:08:31 GST" name="Suite" finished-at="2022-11-11T19:08:38 GST" duration-ms="6523">
     <groups>
     </groups>
-    <test started-at="2022-11-11T18:22:32 GST" name="Test" finished-at="2022-11-11T18:22:41 GST" duration-ms="9276">
+    <test started-at="2022-11-11T19:08:31 GST" name="Test" finished-at="2022-11-11T19:08:38 GST" duration-ms="6523">
       <class name="test.LoginTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.LoginTest@548d708a]" started-at="2022-11-11T18:22:32 GST" name="beforeClass" finished-at="2022-11-11T18:22:40 GST" duration-ms="7823" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.LoginTest@548d708a]" started-at="2022-11-11T19:08:32 GST" name="beforeClass" finished-at="2022-11-11T19:08:37 GST" duration-ms="5158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="Login()[pri:0, instance:test.LoginTest@548d708a]" started-at="2022-11-11T18:22:40 GST" name="Login" finished-at="2022-11-11T18:22:41 GST" duration-ms="615" status="PASS">
+        <test-method signature="Login()[pri:0, instance:test.LoginTest@548d708a]" started-at="2022-11-11T19:08:37 GST" name="Login" finished-at="2022-11-11T19:08:37 GST" duration-ms="560" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="select3Items()[pri:1, instance:test.LoginTest@548d708a]" started-at="2022-11-11T18:22:41 GST" name="select3Items" finished-at="2022-11-11T18:22:41 GST" duration-ms="285" status="PASS">
+        <test-method signature="select3Items()[pri:1, instance:test.LoginTest@548d708a]" started-at="2022-11-11T19:08:37 GST" name="select3Items" finished-at="2022-11-11T19:08:38 GST" duration-ms="405" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- select3Items -->
-        <test-method signature="verifyselect3Items()[pri:2, instance:test.LoginTest@548d708a]" started-at="2022-11-11T18:22:41 GST" name="verifyselect3Items" finished-at="2022-11-11T18:22:41 GST" duration-ms="60" status="PASS">
+        <test-method signature="verifyselect3Items()[pri:2, instance:test.LoginTest@548d708a]" started-at="2022-11-11T19:08:38 GST" name="verifyselect3Items" finished-at="2022-11-11T19:08:38 GST" duration-ms="51" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyselect3Items -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.LoginTest@548d708a]" started-at="2022-11-11T18:22:41 GST" name="afterClass" finished-at="2022-11-11T18:22:41 GST" duration-ms="137" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.LoginTest@548d708a]" started-at="2022-11-11T19:08:38 GST" name="afterClass" finished-at="2022-11-11T19:08:38 GST" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

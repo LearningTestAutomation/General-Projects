@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-11T20:31:10 GST" name="Suite" finished-at="2022-11-11T20:31:30 GST" duration-ms="19848">
+    <groups>
+    </groups>
+    <test started-at="2022-11-11T20:31:10 GST" name="Test" finished-at="2022-11-11T20:31:30 GST" duration-ms="19848">
+      <class name="test.LoginTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.LoginTest@50ad3bc1]" started-at="2022-11-11T20:31:11 GST" name="beforeClass" finished-at="2022-11-11T20:31:29 GST" duration-ms="18164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Login()[pri:0, instance:test.LoginTest@50ad3bc1]" started-at="2022-11-11T20:31:29 GST" name="Login" finished-at="2022-11-11T20:31:30 GST" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="select3Items()[pri:1, instance:test.LoginTest@50ad3bc1]" started-at="2022-11-11T20:31:30 GST" name="select3Items" finished-at="2022-11-11T20:31:30 GST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select3Items -->
+        <test-method signature="verifyselect3Items()[pri:2, instance:test.LoginTest@50ad3bc1]" started-at="2022-11-11T20:31:30 GST" name="verifyselect3Items" finished-at="2022-11-11T20:31:30 GST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyselect3Items -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.LoginTest@50ad3bc1]" started-at="2022-11-11T20:31:30 GST" name="afterClass" finished-at="2022-11-11T20:31:30 GST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
